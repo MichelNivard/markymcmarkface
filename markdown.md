@@ -1,8 +1,8 @@
-My Project
-==========
+#My Project
 
-This is Quarto
---------------
+
+## This is Quarto
+
 
 leta do some writing here. LETS GO!!!
 
