@@ -25,7 +25,7 @@ bla bla bla this is fun
     `geom_smooth()` using formula = 'y ~ x'
     
 
-![](http://localhost:3000/api/image?owner=MichelNivard&repo=markymcmarkface&path=Untitled_files%2Ffigure-commonmark%2F4a44dc15-1.png)
+![](Untitled_files/Ffigure-commonmark/F4a44dc15-1.png)
 
 some text here
 
@@ -33,6 +33,6 @@ some text here
     hist(A)
     
 
-![](http://localhost:3000/api/image?owner=MichelNivard&repo=markymcmarkface&path=Untitled_files%2Ffigure-commonmark%2F0b918943-1.png)
+![](Untitled_files/Ffigure-commonmark/F0b918943-1.png)
 
 1.  hello!
