@@ -2,7 +2,7 @@
 
 ## This is Quarto
 
-lets do some writing here. LETS GO!!!
+lets do some <span data-comment-id="comment-1773593655505" data-username="Michel Nivard" data-avatar-url="https://avatars.githubusercontent.com/u/11858442?v=4" data-text="hello?" data-timestamp="2026-03-15T16:54:15.505Z" data-resolved="false">writing here. LETS GO!!!</span>
 
 ```r
     a <- rnorm(5)
@@ -27,7 +27,7 @@ bla bla bla this is fun
     `geom_smooth()` using formula = 'y ~ x'
 ```
 
-![](Untitled_files/figure-commonmark/4a44dc15-1.png)
+
 
 some text here
 
@@ -36,6 +36,6 @@ some text here
     hist(A)
 ```
 
-![](Untitled_files/figure-commonmark/0b918943-1.png)
 
-1. hello!
+
+1.  hello!
